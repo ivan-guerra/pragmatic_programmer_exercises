@@ -856,6 +856,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "e8"
+version = "0.1.0"
+
+[[package]]
 name = "ecolor"
 version = "0.31.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
