@@ -926,6 +926,17 @@ name = "e16"
 version = "0.1.0"
 
 [[package]]
+name = "e17"
+version = "0.1.0"
+
+[[package]]
+name = "e18"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+]
+
+[[package]]
 name = "e2"
 version = "0.1.0"
 dependencies = [
