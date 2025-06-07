@@ -1,3 +1,3 @@
 [workspace]
 resolver = "2"
-members = ["exercises/e1", "exercises/e10", "exercises/e11", "exercises/e12", "exercises/e13", "exercises/e14", "exercises/e15", "exercises/e16", "exercises/e17", "exercises/e18", "exercises/e19", "exercises/e2", "exercises/e20", "exercises/e3", "exercises/e4", "exercises/e5", "exercises/e6", "exercises/e7", "exercises/e8", "exercises/e9"]
+members = ["exercises/e1", "exercises/e10", "exercises/e11", "exercises/e12", "exercises/e13", "exercises/e14", "exercises/e15", "exercises/e16", "exercises/e17", "exercises/e18", "exercises/e19", "exercises/e2", "exercises/e20", "exercises/e21", "exercises/e3", "exercises/e4", "exercises/e5", "exercises/e6", "exercises/e7", "exercises/e8", "exercises/e9"]
