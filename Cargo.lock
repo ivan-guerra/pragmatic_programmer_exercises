@@ -1023,6 +1023,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "e30"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+]
+
+[[package]]
 name = "e4"
 version = "0.1.0"
 dependencies = [
