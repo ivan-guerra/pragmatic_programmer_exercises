@@ -1,0 +1,8 @@
+[package]
+name = "e32"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31"
+rand = "0.9"
