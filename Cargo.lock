@@ -1068,6 +1068,15 @@ name = "e36"
 version = "0.1.0"
 
 [[package]]
+name = "e37"
+version = "0.1.0"
+dependencies = [
+ "arboard",
+ "once_cell",
+ "rand 0.9.1",
+]
+
+[[package]]
 name = "e4"
 version = "0.1.0"
 dependencies = [
