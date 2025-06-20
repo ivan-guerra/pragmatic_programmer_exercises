@@ -1119,6 +1119,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "e40"
+version = "0.1.0"
+dependencies = [
+ "chrono",
+ "csv",
+ "serde",
+]
+
+[[package]]
 name = "e5"
 version = "0.1.0"
 dependencies = [
