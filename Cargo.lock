@@ -1204,6 +1204,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "e47"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "reqwest",
+ "serde",
+]
+
+[[package]]
 name = "ecolor"
 version = "0.31.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
