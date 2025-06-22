@@ -1,7 +1,7 @@
 # The Pragmatic Programmers: Exercises for Programmers
 
-This repo contains Rust solutions to the coding exercises provided in [The
-Pragmatic Programmers: Exercises for Programmers][1].
+This repo contains Rust solutions to coding challenges 1-48 in [The Pragmatic
+Programmers: Exercises for Programmers][1].
 
 To run any single solution, use the following command:
 
