@@ -1,7 +1,6 @@
 [package]
-name = "e3"
+name = "e09"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-once_cell = "1.21"

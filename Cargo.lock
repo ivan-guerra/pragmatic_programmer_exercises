@@ -916,7 +916,57 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d8b14ccef22fc6f5a8f4d7d768562a182c04ce9a3b3157b91390b52ddfdf1a76"
 
 [[package]]
-name = "e1"
+name = "e01"
+version = "0.1.0"
+
+[[package]]
+name = "e02"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+]
+
+[[package]]
+name = "e03"
+version = "0.1.0"
+dependencies = [
+ "once_cell",
+]
+
+[[package]]
+name = "e04"
+version = "0.1.0"
+dependencies = [
+ "petgraph",
+]
+
+[[package]]
+name = "e05"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+]
+
+[[package]]
+name = "e06"
+version = "0.1.0"
+dependencies = [
+ "chrono",
+]
+
+[[package]]
+name = "e07"
+version = "0.1.0"
+dependencies = [
+ "eframe",
+]
+
+[[package]]
+name = "e08"
+version = "0.1.0"
+
+[[package]]
+name = "e09"
 version = "0.1.0"
 
 [[package]]
@@ -981,13 +1031,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "e2"
-version = "0.1.0"
-dependencies = [
- "eframe",
-]
-
-[[package]]
 name = "e20"
 version = "0.1.0"
 dependencies = [
@@ -1042,13 +1085,6 @@ version = "0.1.0"
 [[package]]
 name = "e29"
 version = "0.1.0"
-
-[[package]]
-name = "e3"
-version = "0.1.0"
-dependencies = [
- "once_cell",
-]
 
 [[package]]
 name = "e30"
@@ -1118,13 +1154,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "e4"
-version = "0.1.0"
-dependencies = [
- "petgraph",
-]
-
-[[package]]
 name = "e40"
 version = "0.1.0"
 dependencies = [
@@ -1173,35 +1202,6 @@ dependencies = [
  "anyhow",
  "regex",
 ]
-
-[[package]]
-name = "e5"
-version = "0.1.0"
-dependencies = [
- "eframe",
-]
-
-[[package]]
-name = "e6"
-version = "0.1.0"
-dependencies = [
- "chrono",
-]
-
-[[package]]
-name = "e7"
-version = "0.1.0"
-dependencies = [
- "eframe",
-]
-
-[[package]]
-name = "e8"
-version = "0.1.0"
-
-[[package]]
-name = "e9"
-version = "0.1.0"
 
 [[package]]
 name = "ecolor"

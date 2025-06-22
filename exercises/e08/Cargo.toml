@@ -1,7 +1,6 @@
 [package]
-name = "e7"
+name = "e08"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-eframe = "0.31.1"
